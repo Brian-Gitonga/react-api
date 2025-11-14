@@ -1,10 +1,11 @@
 
 import './App.css'
+import './components/hero.css'
 
 function App() {
   return (
     <>
-      <div>
+      <div className="container">
         <div className="header">
           <div className="logo">
             <h2>UniSearch</h2>
